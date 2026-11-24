@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ALILA-POS/ALILA-POS.csproj" Id="2a95b58c-ff67-4275-b0e6-c69d6e2beae6" />
+  <Project Path="ALILA_POS.Data/ALILA_POS.Data.csproj" Id="6da6f2cc-c9b1-4c8c-92bc-ff8d67f6b7ea" />
+  <Project Path="ALILA_POS.Domain/ALILA_POS.Domain.csproj" Id="1db24710-7548-4ca1-927b-79db43aaaf60" />
+  <Project Path="ALILA_POS.Services/ALILA_POS.Services.csproj" Id="d56260b5-56fd-473a-9c13-8a51bf3348f9" />
+</Solution>
